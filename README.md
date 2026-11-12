@@ -1,16 +1,6 @@
 # cash_register_app
 
-A new Flutter project.
+愛知工業大学の大学祭「工科展」（2023年）で、システム研究会の模擬店が使うために開発したレジ用のアプリです。店員が、来店客の注文の会計と、調理から受け渡しまでの進行を管理します。釣銭を確認しやすくするため、預かったお金と返すお釣りを硬貨・紙幣の枚数で扱います。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 関連リポジトリ
+- [ordering_system_app](https://github.com/SystemEngineeringTeam/ordering_system_app)：来店客が自分のスマートフォンから注文するための、モバイルオーダー用のアプリ
